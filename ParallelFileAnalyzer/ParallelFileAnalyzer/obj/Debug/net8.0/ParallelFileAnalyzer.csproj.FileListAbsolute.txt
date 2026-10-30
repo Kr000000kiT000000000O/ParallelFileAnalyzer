@@ -1,0 +1,14 @@
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\bin\Debug\net8.0\ParallelFileAnalyzer.exe
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\bin\Debug\net8.0\ParallelFileAnalyzer.deps.json
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\bin\Debug\net8.0\ParallelFileAnalyzer.runtimeconfig.json
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\bin\Debug\net8.0\ParallelFileAnalyzer.dll
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\bin\Debug\net8.0\ParallelFileAnalyzer.pdb
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\obj\Debug\net8.0\ParallelFileAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\obj\Debug\net8.0\ParallelFileAnalyzer.AssemblyInfoInputs.cache
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\obj\Debug\net8.0\ParallelFileAnalyzer.AssemblyInfo.cs
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\obj\Debug\net8.0\ParallelFileAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\obj\Debug\net8.0\ParallelFileAnalyzer.dll
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\obj\Debug\net8.0\refint\ParallelFileAnalyzer.dll
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\obj\Debug\net8.0\ParallelFileAnalyzer.pdb
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\obj\Debug\net8.0\ParallelFileAnalyzer.genruntimeconfig.cache
+C:\Users\kiki1\Downloads\ParallelFileAnalyzer\ParallelFileAnalyzer\ParallelFileAnalyzer\obj\Debug\net8.0\ref\ParallelFileAnalyzer.dll
